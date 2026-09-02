@@ -1,0 +1,1575 @@
+Cipla Ltd. , Goa
+Isolate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:|J - 114 Printed: Jul 3, 2026 12:27 IST
+
+Search Criteria
+
+Lab ID: <<all>> Isolate Number: <<all>> QC Reference ID: <<all>>
+User !|D Recorded: <<all>> Event Type: <<all>> Source: Database
+Start Date: Jun 1, 2025 00:00 IST End Date: Jul3, 2026 23:59 IST
+
+Audit Trail Events
+
+Jun 3, 2025 C12 23172072 odified:Isolate ‘| t Ul
+01:03:03 IST 9-1 Inactive ystem TUN]
+Jun 3, 2025 AHIDENT17146688- |Modified:Isolate Syst
+
+01:03:03 IST { Inactive ysiem
+
+Jun 3, 2025 NCTC129851671356 |Modified:Isolate System SREEE
+
+01:03:03 IST 6-1 Inactive ys Ld
+
+Jun 19, 2025 NCTC129231734640 . [ [Sonal
+
+15:54:03 IST NCTC129291734640 sated: Setup Tech |sonal_142190 Naik]:[Setup Tech]
+
+Jun 19, 2025 NCTC129231734640 |Created:lsolate | 142190
+
+15:54:03 IST 4-4 Created sona’_
+
+Jun 19, 2025 AHIDENT17200042- : ; [ ]:[Sonal
+
+15:54:03 IST Created:Setup Tech jsonal_142190 Naik]:[Setup Tech]
+: 4
+
+Jun 19, 2025 AHIDENT17200042- |Created:lsolate | 142190
+
+15:54:03 IST Created sonal_
+
+Jun 19, 2025 AHIDENT17258905- . [ ]:[Sonal
+
+15:54:03 IST AHIDENTI7258005-|o,sted:Setup Tech |sonal_142190 Naik]:[Setup Tech]
+Jun 19, 2025 AHIDENT17258905- |Created: Isolate sonal 142190
+
+15:54:03 IST 1 Created sonal_tte
+
+Jun 19, 2025 NCTC129231734640 |Modified:Analysis Syst
+
+15:54:03 IST 4-1 Begins ystem
+
+Jun 19, 2025 NCTC129231734640 |Modified:Analysis
+15:54:03 IST 4-1 Completes
+
+Jun 19, 2025 AHIDENT17200042- |Modified:Analysis
+15:54:03 IST 1 Begins
+
+Jun 19, 2025 AHIDENT17200042- |Modified:Analysis
+15:54:03 IST 1 Completes
+
+Jun 19, 2025 AHIDENT17258905- jModified:Analysis Syst
+15:54:03 IST 1 Begins ysiem
+
+Jun 19, 2025 AHIDENT17258905- |Modified:Analysis Syst
+15:54:03 IST 1 Completes ystem
+Jun 19, 2025 NCTC129231734640 |Modified:Analysis
+20:38:33 IST 4-1 Begins
+
+Jun 19, 2025 NCTC129231734640 |Modified:Analysis
+20:38:34 IST 4-1 Completes
+
+Jun 19, 2025 NCTC129231734640 |Modified:Analysis
+20:38:34 IST 4-1 Begins
+
+Installed VITEK 2 Systems Version:9.02 Page 1 of 17
+
+Cipla Ltd. , Goa
+Isolate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:|J - 114 Printed: Jul 3, 2026 12:27 IST
+
+Jun 19, 2025
+
+BO @ {Po
+>So
+8 21
+Bled
+Ap]
+—ol—
+Molton
+dala
+
+NCTC129231734640 |Modified:Analysis Syst
+
+4-1 Completes ystem
+AHIDENT17258905- |Modified:Analysis ta
+AHIDENT17258905- |Modified:Analysis Syst
+
+1 Completes ystem
+AH!IDENT17258905- |Modified:Analysis
+1 Begins
+1
+
+cyTyN Cc
+Cc = Cc
+3135
+3=lo-=
+©}. ©
+8/28
+VIAN
+ajo)a
+
+Jun 19, 2025 AHIDENT17258905- |Modified:Analysis Syst
+21:36:45 IST Completes ystem
+Jun 20, 2025 AHIDENT17200042- |Modified:Analysis a
+: 1 Begins System CIC]
+
+—]|O
+e]a
+s
+Vlo
+Ol
+rm | =>
+Bla
+ajo
+
+AHIDENT17200042- |Modified:Analysis “|.
+1 Completes ystem
+AHIDENT17200042- [Modified:Analysis |...
+1 Begins ystem
+AHIDENT17200042- |Modified:Analysis |...
+: 1 Completes ystem
+<< All >>:lsolate
+Jun 20, 2025 NCTC129231734640 |e tronic Signature |Sonal_142190
+09:04:32 IST 4-4 ,
+Failure
+Jun 20, 2025 NCTC129231734640 |Report:Lab Report
+Jun 20, 2025 NCTC129231734640/"eviewed: Reviewed
+09:0 4-87 IST AA with Electronic sonal_142190
+aa ” Signature
+Jun 20, 2025 NCTC129231734640 |Report:Lab Report
+
+Jun 20, 2025 AHIDENT17258905- ee lewed Reviewed
+09:05:14 IST 1
+
+Signature
+
+Jun 20, 2025 AHIDENT17258905- |Report:Lab Report
+
+Reviewed: Reviewed
+pe rares AHIDENTH7200042- with Electronic sonal_142190 CRUEL
+~s Signature
+Jun 20, 2025 AHIDENT17200042- |Report:Lab Report
+
+Jun 20, 2025 AHIDENT17200042- |APProved:Approved
+
+nat with Electronic mallika_14425
+
+15:22:53 IST 1 Signature pote as |
+Approved:Approved
+
+AHIDENTI7256908- with Electronic mallika_14425
+Signature
+
+Installed VITEK 2 Systems Version:9.02 Page 2 of 17
+
+ra)
+_
+A
+@
+)
+a
+a)
+|
+
+oe
+=
+z5lk
+@ bo
+bo
+An
+aS
+4a
+
+1
+1
+
+a.
+<
+. oO
+NO
+Oo
+N
+oO
+NO
+n
+
+ro)
+S
+hb
+@
+NS
+or
+a
+=o
+
+sonal_142190
+
+Jun 20, 2025
+15:23:01 IST
+
+Cipla Ltd. ,Goa
+Isolate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:|J - 114 Printed: Jul 3, 2026 12:27 IST
+
+Jun 20, 2025
+
+15-23-08 IST ye 1129281734640 with Electronic ——_|mallika_14425
+™ ; Signature
+Jun 20, 2025 AHIDENT17200042- |Report:Lab Report .
+Jun 20, 2025 AHIDENT17258905- |Report:Lab Report . ra.
+
+Jun 20, 2025 NCTC129231734640|<~ Au >> 'Isolate
+a Electronic Signature |mallika_14425
+18:23:45 IST Electr
+
+Jun 20, 2025 NCTC129231734640 [Report:Lab Report
+15:23:55 IST 4-1 Printed P mallika_14425 shen po
+Jun 20, 2025 NCTC129231734640|ReportLab Report |
+
+[]:[Yogeeta
+Gawas)]:[Setup
+Tech]
+
+-4
+NCTC129231735995 |Created: Isolate
+
+[ ]:{[Yogeeta
+AHIDENT17200154- Gawas]:[Setup
+
+Tech]
+
+' po
+Jun 21, 2025 AHIDENT17200154- |Created:Isolate ane —
+Jun 21, 202 NCTC129231735995|Modified:Analysis |.
+17:04:16 1ST 2-4 Begins ystem
+Jun 21, 2025 NCTC129231735995|Modified:Analysis |, EEN
+17:04:16 IST 2-1 Completes ystem ae
+Jun 21, 2025 AHIDENT17200154- |Modified:Analysis |.
+17:04:16 IST 1 Begins ystem
+
+- |Modified:Analysis
+: Completes
+1
+
+Jun 21, 2025
+17.04:16 IST
+
+Jun 21, 2025
+17:04:16 IST
+Jun 21, 2025
+17:04:16 IST
+
+NCTC129231735995
+2.
+
+Created:Setup Tech |yogeeta_140319
+
+Created:Setup Tech |yogeeta_140319
+
+2025
+Jun 21, 2025 AHIDENT17200154 Svet tM
+17:04:16 IST 1 ystem CEN)
+Jun 21, 2025 NCTC129231735995 |Modified:Analysis
+21:20:13 1ST 2- Begins
+Jun 21, 2025 NCTC129231735995|Modified:Analysis |= OLE
+21:20:14 IST 2-4 Completes ystem TT:
+Jun 24, 2025 NCTG129231735995|Modified:Analysis | 11
+21:20:14 IST 2-1 Begins ystem COE
+Jun 21, 2025 NCTG129231736995|Modified:Analysis [5
+21:20:15 1ST -1 Completes ystem
+; |
+
+: 2
+Jun 22, 2025 AHIDENT17200154- |Modified:Analysis |. a.
+06:52:27 IST Begins ystem [):010)]
+Jun 22, 2025 AHIDENT17200154- |Modified:Analysis |. aa.
+06:52:28 IST 1 Completes ystem C000)
+
+Installed VITEK 2 Systems Version:9.02 Page 3 of 17
+
+|
+|
+|
+
+Cipla Ltd. ,Goa
+lsotate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:lJ - 114 Printed: Jul 3, 2026 12:27 IST
+
+Jun 22, 2025
+06:52:28 IST
+
+AHIDENT17200154- |Modified:Analysis Syst
+1 Begins ystem
+AHIDENT17200154- |Modified:Analysis Syst
+1 Completes ystem
+
+Reviewed: Reviewed:
+NCTC129231735995]_ °
+Signature
+Jun 23, 2025 NCTC129231735995 |Report:Lab Report a
+
+Sonal_142190
+
+Reviewed:Reviewed
+
+Moo ae IST AHIDENTI7200194- with Electronic |sonal_142190
+
+a Signature
+
+Jun 23, 2025 AHIDENT17200154- |Report:Lab Report a
+Approved:Approved
+
+Jun 24, 2025 AHIDENT17200154-1. . .
+
+15:18:54 ST 1 with Electronic mallika_14425
+
+Signature
+Jun 24, 2025 AHIDENT17200154- |Report:Lab Report
+15:19:02 IST 1 Printed
+Jun 24, 2025 NCTC129231735995 | PProved:Approved
+15-4 9:39 IST aoe with Electronic mallika_14425 mnene
+_ - Signature
+NCTC129231734640 |Modified:Isolate Syst
+4-1 Inactive ystem
+4 ;
+1
+N
+
+Jun 24, 2025
+
+Jun 27, 2025
+01:03:03 IST
+
+Jun 27, 2025
+01:03:03 IST
+
+Jun 27, 2025
+01:03:03 IST
+
+Jun 29, 2025
+01:03:03 IST
+
+Jun 29, 2025
+
+AHIDENT17200042- |Modified:Isolate Syst
+Inactive ystem
+AHIDENT17258905- |Modified:|lsolate System
+Inactive ys
+
+CTC129231735995 |Modified:lsolate na.
+AHIDENT17200154- |Modified:Isolate System
+: 1 Inactive y
+
+: NCTC129231752594 ; [ }:[Sonal
+
+46:23:17 IST INCTC129281752594| ted: Setup Tech |sonal_142190 Naik]:[Setup Tech]
+Jul 19, 2025 NCTC129231752594 |Created: Isolate a
+
+—
+a
+=
+©
+wo
+an
+n
+|
+
+j|oO
+c jou
+ajO
+oOo}
+fon}
+NO
+o|=
+aS
+
+Jul 19, 2025 AHIDENT17483834 [ }:[Sonal
+
+16:23:17 IST AHIDENTI7483094 oe tod: Setup Tech |sonal_142190 Naik]:[Setup Tech]
+Jul 19, 2025 AHIDENT17483834- |Created: Isolate al 142490
+
+46:23:17 IST 1 Created sona'_
+
+Jul 19, 2025 NCTC129231752594|Modified:Analysis |. sam
+
+16:23:17 IST 3-4 Begins yste
+
+Installed VITEK 2 Systems Version:9.02 . Page 4 of 17
+
+Cipla Ltd. ,Goa
+Isolate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:lJ - 114 Printed: Jul 3, 2026 12:27 IST
+
+Jul 19, 2025 NCTC129231752594|Modified:Analysis |.
+16:23:17 IST 3-1 Completes ystem
+Jul 19, 2025 AHIDENT17483834- |Modified:Analysis |.
+
+16:23:17 IST 1 Begins yste
+
+Jul 19, 2025 AHIDENT17483834- |Modified:Analysis |.
+
+16:23:17 IST 1 Completes ysiem
+
+Jul 19, 2025 NCTC129231752594|Modified:Analysis |,
+
+20:35:27 IST 3-4 Begins ystem
+
+Jul 19, 2025 NCTC129231752594 |Modified:Analysis Syst Th
+
+20:35:28 IST 3-1 Completes ystem eo eLe
+
+Jul 19, 2025 NCTC129231752694|Modified:Analysis |.
+20:35:28 IST 3-1 Begins ystem
+
+Jul 19, 2025 AHIDENT17483834- [Modified:Analysis |. _, at.
+22:03:19 IST ‘ Begins ystem CE
+Jul 19, 2025 AHIDENT17483834- [Modified:Analysis |...
+
+22:03:19 IST 1 Completes ystem
+
+Jul 19, 2025 AHIDENT17483834- |Modified:Analysis Syst
+
+22:03:19 1ST 1 Begins ystem
+
+Jul 19, 2025 AHIDENT17483834- |Modified:Analysis Syst
+
+22:03:19 IST 1 Completes ystem
+
+[ ]:[Since it is known
+standard culture,
+sonal_142190 Shigella boydii 2412800503728672
+selected.}:[ ]
+Jul 21, 2025 AHIDENT17483834- |Modified:lsolate | 142190 [Slashline]:[Shigella
+09:33:09 IST 1 Organism Updated |$°"?— boydii]:[ ]
+Jul 21, 2025 AHIDENT17483834- |Modified:Analysis Syst
+09:33:09 IST 1 Begins ystem
+Jul 21, 2025 AHIDENT17483834- |Modified:Analysis Syst
+09:33:10 1ST Af Completes ystem
+Jul 21, 2025 AHIDENT17483834- |Report:Lab Report
+Jul 21, 2025 AHIDENT17483834- |Reviewed:Reviewed
+09:33:48 IST 1 ” |with Electronic Sonal_142190
+_ Signature
+Jul 21,2025 AHIDENT17483834- |Report:Lab Report
+Reviewed:Reviewed
+Jul 21, 2025 NG 1129291752594 with Electronic sonal_142190
+Signature
+Jul 21, 2025 NCTC129231752594 |Report:Lab Report
+
+Installed VITEK 2 Systems Version:9.02 ; Page 5 of 17
+
+NCTC129231752594 |Modified:Analysis Syst
+20:35:29 IST 3-4 Completes ystem
+
+AHIDENT17483834- |Modified:Card
+1
+
+Jul 21, 2025
+09:33:01 IST
+
+Cipla Ltd. , Goa
+Isolate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:lJ - 114 Printed: Jul 3, 2026 12:27 IST
+
+Approved:Approved
+with Electronic
+
+Approved:Approved
+
+ear 3.1 with Electronic humayun_ 138338
+— Signature
+
+Jul 22, 2025 NCTC129231752594 |Report:Lab Report
+
+Jul 27, 2025 NCTC129231752594|Modified:Isolate |.
+01:03:03 IST 3-1 Inactive ystem
+Jul 27, 2025 AHIDENT17483834- |Modified:lsolate Syst
+01:03:03 IST 1 Inactive ' ystem
+
+Aug 21, 2025 NCTC107881771457
+15:55:23 IST 5-1
+
+NCTC129231752594
+
+Gawas]:[Setup
+Tech]
+
+[]:[Yogeeta
+Gawas]:[Setup
+
+Created:Setup Tech lyogeeta_140319
+
+\ Tech]
+Aug 21, 2025 NCTC107881769411 |Created:lsolate
+
+[ ]:[Yogeeta
+Gawas]:[Setup
+Tech]
+
+NCTC129231 769407
+15:55:23 IST 4-1
+
+Aug 21, 2025 ETC IZ9291789407 Createc:tsolate yogeeta_140319
+Aug 21, 2025 NCTC107881771457 |Modified:Analysis |...
+
+15:55:23 IST 5-1 Begins ystem
+
+Aug 21,2025 - NCTC107881771457 |Modified:Analysis System
+15:55:23 IST 5-1 Completes ys
+
+Aug 21, 2025 NCTC107881769411 |Modified:Analysis ak
+Aug 21, 2025 NCTC107881769411 |Modified:Analysis ad.
+
+Aug 21, 2025 NCTC129231769407 |Modified:Analysis |... CEU
+15:55:23 1ST 4-1 Begins ystem Lh
+
+Aug 21, 2025 NCTC129231769407 |Modified:Analysis |...
+
+15:55:23 IST 4-1 Completes ystem
+
+Aug 21, 2025 NCTC129231 769407 |Modified:Analysis Syst
+
+20:11:31 IST 4-4 Begins ystem
+
+Created:Setup Tech |yogeeta_140319
+
+=
+oa
+[$3]
+a
+N
+oo
+n
+4
+
+=
+a
+a
+a
+iN}
+Ww
+n
+|
+
+Installed VITEK 2 Systems Version:9.02 Page 6 of 17
+Cipla Ltd. , Goa
+Isolate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:lJ-114 ° Printed: Jul 3, 2026 12:27 IST
+
+Aug 21, 2025 NCTC129231769407 [Modified:Analysis |. a —
+20:11:32 IST 4-4 Completes yste
+Aug 21, 2025 NCTC129231769407 |Modified:Analysis |.
+20:11:32 IST 4-4 Begins yste
+Aug 21, 2025 NCTC129231769407 |Modified:Analysis [oo CNEL
+20:14:32 IST 41 Completes yste Lh
+Aug 21, 2025 NCTC107881769411|Modified:Analysis |.
+20:26:26 IST 0-1 Begins ystem
+Modified:Analysis
+NCTC107881769411 |Modified:Analysis a.
+6 os pean NS [oyetem fata
+Aug 21, 2025 NCTC 107881769411 [Modified:Analysis |.
+20:26:26 IST 0-1 Completes ystem
+Aug 21, 2025 NCTC107881771457 |Modified:Analysis |.
+20:26:51 IST 5-1 Begins ys
+NCTC107881771457 [Modified:Analysis |.
+5-1 Completes ystem
+NCTC107881771457 |Modified:Analysis a.
+Nc egg NS oyetem fusca
+NCTC107881771457 |Modified:Analysis ad.
+5-4 Completes system HT
+
+Reviewed: Reviewed
+By or881 760411 with Electronic
+. Signature
+pe 107881760411 ReportLab Report yogeeta_140319
+
+Reviewed: Reviewed
+yore 07881771457 with Electronic
+
+Signature
+
+NGTC107881771487 Report:Lab Report yogesta_ 140319 te
+
+NCTC129231769407 Reviewed:Reviewed
+
+4-1 with Electronic
+NCTC129231 769407
+4-1
+
+°F
+
+iS} IN}
+SP Sz
+Ha Hea
+Orw On
+om No
+~% Pn
+op) ago
+i) iN
+Aa da
+
+08:38:55 IST
+
+Aug 22, 2025
+08:39:01 IST
+
+Aug 22, 2025
+08:40:12 IST
+
+Aug 22, 2025
+08:40:14 IST
+
+yogeeta_140319
+
+yogeeta_140319
+
+Signature
+
+pepore tab Report | ogeeta_140319
+
+Approved:Approved
+with Electronic
+
+Installed VITEK 2 Systems Version:9.02 Page7 of 17
+
+Cipla Ltd. , Goa
+Isolate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:lJ - 114 Printed: Jul 3, 2026 12:27 IST
+
+Approved:Approved
+Aug 22, 2025 NCTC107881771457 with Electronic
+
+16:03:45 IST 5-1 Signature
+
+Aug 22, 2025 NCTC107881771457 |Report:Lab Report ;
+
+Aug 22, 2025 NCTC129231769407 | PProved:Approved
+
+16:04:17 1ST with Electronic
+CTC129231769407
+
+4 Signature
+N :
+
+4 :
+
+7
+
+N
+
+7
+
+humayun_138338
+
+humayun_138338
+
+Aug 22, 2025
+
+-|
+" Report Lab Report th umayun_138338
+Aug 25, 2025 NCTC129231773920 . [ }:[Sonal
+Created:Setup Tech |sonal_142190 Naik]:[Setup Tech]
+Aug 25, 2025 JOTC129231773920 created’ solate sonal_ 142190
+Aug 25, 2025 AHIDENT17716106- ; {}:[Sonal
+4 Created:Setup Tech |sonal_142190 Naik]:[Setup Tech]
+ua “. 2025 AHIDENT! 7716106- Created: tsolate sonal_142190
+Aug 25, 2025 AHIDENT17716107- . [ }:[Sonal
+28: AHIDENTI7716107-|created:Setup Tech |sonal_142190 Naik]:[Setup Tech]
+Aug 26, 2025 AHIDENT! 7716107- Greater isolate sonal_ 142190
+Aug 25, 2025 NCTC129231773920 |Modified:Analysis System
+7-1 Begins yste
+Aug 25, 2025 NCTC129231773920 |Modified:Analysis System
+7-4 Completes yste
+Aug 25, 2025 AHIDENT17716106- |Modified:Analysis System
+1 Begins yste
+Aug 25, 2025 AHIDENT17716106- |Modified:Analysis System
+1 Completes yste
+Aug 25, 2025 AHIDENT17716107- |Modified:Analysis System
+15:28:39 IST 1 Begins y
+Aug 25, 2025 AHIDENT17716107- |Modified:Analysis System
+1 Completes yste
+NCTC129231773920 |Modified:Analysis Syst
+7-1 Begins ystem
+NCTC129231773920 |Modified:Analysis
+NCTC129231773920 |Modified:Analysis
+NCTC129231773920 |Modified:Analysis System
+7-1 Completes y
+AHIDENT17716107- |Modified:Analysis System
+1 Begins y
+
+Installed VITEK 2 Systems Version:9.02 Page 8 of 17
+
+—
+“
+—
+a
+—
+a
+
+=—s _ = —_
+NO RO wed oO
+oo ood sod +
+Q wo w No
+oO ~o ice} oO
+7) a mr) or)
+aR/4 2/48]
+
+=
+oi
+No
+foe]
+wo
+©
+”n
+4
+
+=
+oa
+ND
+fo)
+ow
+oO
+”
+el
+
+= = }pT= = =
+nN NO he) ho RO
+bad o oo oo od
+w w w w ies}
+oOo ite] oO ite} wo
+i) vo an 7) a
+“4 4 4 4 4
+
+Aug 25, 2025
+20:15:22 IST
+Aug 25, 2025
+20:15:23 IST
+Aug 25, 2025
+20:15:23 IST
+Aug 25, 2025
+20:16:24 IST
+Aug 25, 2025
+20:29:33 IST
+
+=
+a
+iN)
+&
+ra)
+o
+n
+ai
+
+i
+i
+|
+|
+\
+i
+\
+Cipla Ltd. ,Goa
+Isolate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:IJ - 114 . Printed: Jul 3, 2026 12:27 IST
+
+Aug 25, 2025 AHIDENT17716107- |Modified:Analysis |. ae.
+
+20:29:33 IST 1 Completes ystem VEN]
+AHIDENT17716107- |Modified:Analysis a.
+
+AHIDENT17716107- |Modified:Analysis
+
+1 Completes
+
+AHIDENT17716106- |Modified:Analysis
+
+1 Begins
+
+AHIDENT17716106- |Modified:Analysis
+
+1 Completes
+
+AHIDENT17716106- |Modified:Analysis
+
+AHIDENT17716106- |Modified:Analysis a.
+
+Aug 26, 2025
+07:30:16 IST
+
+Aug 26, 2025
+07:30:22 IST
+
+Yogeeta_140319
+
+yogeeta_140319
+
+Reviewed:Reviewed
+AHIDENTI7716108- with Electronic
+Signature
+AHIDENT17716106- |Report:Lab Report
+Reviewed: Reviewed
+AHIDENTI7716107- with Electronic
+Signature
+Reviewed:Reviewed
+NETCI29291773920 with Electronic yogeeta_140319
+Signature
+Aug 26, 2025 NCTC129231773920 |Report:Lab Report
+Approved:Approved
+NCTC129281773920 with Electronic gangadhar_141094
+Signature
+Aug 26, 2025 AHIDENT17716107- |Report:Lab Report
+Approved:Approved
+Aug 26, 2025 , :
+09:53:18 IST wih Electronic
+ignature
+
+gangadhar_141094
+
+Approved:Approved
+with Electronic
+Signature
+
+gangadhar_141094
+
+Installed VITEK 2 Systems Version:9.02 Page 9 of 17
+Cipla Ltd. ,Goa
+Isolate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:IJ - 114 Printed: Jul 3, 2026 12:27 IST
+
+é
+
+Aug 26, 2025 NCTC129231773920 |Report:Lab Report
+09:54:09 IST INoTC129281773920 fRepor pet |gangadhar_1410940 FL FU]
+AHIDENT17716107- Report Lab Report |. .gadhar 141094 noo |
+Aug 26, 2025 AHIDENT17716106- ReportLab Report | wgadhar_141004 a
+Aug 29, 2025 NCTC107881771457|Modified:isolate |.
+5.4 Inactive yste
+Aug 29, 2025 NCTC107881769411|Modified:Isolate |.
+0-1 Inactive yste
+Aug 29, 2025 NCTC129231769407|Modified:Isolate |.
+4-1 Inactive ystem
+Sep 2, 2025 NCTC129231773920 |Modified:Isolate
+fcrorzsnar7raczojMoatesieaee [oyetem HTC
+Sep 2, 2025 AHIDENT17716106- [Modified:isolate |. EL
+01:03:02 IST 1 Inactive ystem C}t):
+1 Lye
+
+Sep 2, 2025 AHIDENT17716107- |Modified:/solate System CLUE
+01:03:03 IST Inactive ystem.
+Sep 13, 2025 NCTC129231784737 . []:[Sonal
+NCTC126281784737 | reatod-Setup Tech |sonal_142190 Naik]:[Setup Tech]
+Sep 13, 2025 NCTC129231784737 |Created:lsolate
+Sep 13, 2025 NCTC129231784207 ; [ :[Sonal
+54 Created:Setup Tech |sonal_142190 Naik]:[Setup Tech]
+Sep 13, 2025 NCTC128291784207 Greated:Isolate sonal_ 142190 tee
+, NCTC129851784074 . { ]:[Sonal
+NCTC129861784074 created Setup Tech |sonal_142190 Naik]:(Setup Tech]
+NoTC129851784074 Created: Isolate sonal_ 142190 ano
+Sep 13, 2025 NCTC129851782901 ; [ }:[Sonal
+Created:Setup Tech |sonal_142190 Naik]:[Setup Tech]
+Sep 13, 2025 NCTC129851782901 |Created:Isolate
+2-1
+|
+|
+4
+
+—_ ary =-a;l-2 ”0{]> ary = = oO
+
+a a aolag|a a on a = S S S © oe
+fo) ° Oe Flo tle foo) ° ° fo) S fo } o wna
+a a aALla Pla a a a fo) ro) ° ° KR a
+Oo co O ny Op] eC ©o ©o oo No wo wo Ww NO On
+HIAHLRBLBLIIBLIGSIBOIa AM|HLHLIGLIHDLIAS
+SARIARIARARIARASIASIA AMAR IARIARIARIGR
+
+te)
+i)
+me]
+=
+w
+nN
+oO
+N
+oa
+
+NCTC129231784737 |Modified:Analysis S
+Beai ystem
+gins
+Sep 13, 2025 NCTC129231 784737 |Modified:Analysis a.
+Sep 13, 2025 NCTC129231784207 |Modified:Analysis System
+5 Begins yste
+Sep 13, 2025 NCTC129231784207 |Modified:Analysis
+System
+5 Completes
+Sep 13, 2025 NCTC129851784074 |Modified:Analysis System
+6-1 Begins y
+
+Installed VITEK 2 Systems Version:9.02 Page 10 of 17
+
+—_ —_ —_ —_ —_
+oO Oo oO oO oO
+> & & -& >
+or a oi on on
+oOo ©o oO o ico}
+a a a w n
+AR(aHRIARIA 4
+
+Cipla Ltd. ,Goa
+Isolate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:|J - 114 Printed: Jul 3, 2026 12:27 IST
+
+ep 13, 2025
+15:05:00 IST
+
+: 129851784074 |Modified:Analysis _
+Sep 13, 2025 NCTC129851782901 |Modified:Analysis. |,
+15:05:00 IST 3-1 Begins ys
+Sep 13, 2025 NCTC129851782901 |Modified:Analysis |. CE
+15:05:00 IST 3 Completes y Ld
+2
+
+Sep 13, 2025
+
+c PS
+NCTC129231784737 [Modified:Analysis |.
+
+19:50:21 IST 4 Bogins ystem
+
+Sep 13, 2025 NCTC129231784737 |Modified:Analysis |.
+
+19:50:22 IST 2-4 Completes yste
+
+Sep 13, 2025 NCTC129231784737|Modified:Analysis. |.
+19:50:22 IST 2-4 Begins ystem
+Sep 13, 2025 NCTC129231784737 |Modified:Analysis Syst
+19:50:22 IST 2-4 Completes ystem PVN]
+Sep 13, 2025 NCTC129231784207|Modified:Analysis |.
+20:48:47 IST 5-1 Begins y
+Sep 13, 2025 NCTC129231784207 |Modified:Analysis System CECI
+20:48:47 IST 5-4 Completes yste td
+Sep 13, 2025 NCTC129231784207 |Modified:Analysis |. er
+20:48:47 IST 5-1 Begins ys wh
+5-4 Le
+N : :
+4
+
+Sep 13, 2025 CTC129231784207 |Modified:Analysis Syst CU
+20:48:47 IST Completes ystem i
+Sep 13, 2025 CTC129851784074|Modified:Analysis |,
+21:47:11 IST 6 Begins ystem
+Sep 13, 2025 NCTC129851784074 |Modified:Analysis System CIC]
+21:47:41 IST 6-1 Completes yste
+Sep 13, 2025 NCTC 129851784074 |Modified:Analysis |, EL
+21:47:11 IST 6-1 Begins ystem C10]
+Sep 13, 2025 NCTC129851784074|Modified:Analysis |.
+21:47:11 IST 6 Completes ystem
+
+: |
+
+Sep 14, 2025 CTC129851782901 |Modified:Analysis Syst
+
+00:57:43 IST 3-1 Begins ystem
+
+Sep 14, 2025 NCTC129851782901 |Modified:Analysis |.
+
+00:57:43 IST 3-1 Completes ystem
+
+Sep 14, 2025 NCTC129851782901 |Modified:Analysis Syst ah
+
+00:57:43 IST 3-1 Begins ystem (i101
+
+Sep 14, 2025 NCTC129851782901 |Modified:Analysis system |
+System
+
+00:57:43 IST 3-1 Completes
+
+Reviewed: Reviewed
+pt NCTC129231784207 | vith Electronic Sonal_142190
+09:17:11 IST 5-1 .
+Signature
+Sep 15, 2025 NCTC129231784207 |Report:Lab Report
+
+Installed VITEK 2 Systems Version:9.02 ; Page 11 of 17
+
+Sep 15, 2025
+
+Cipla Ltd. ,Goa
+Isolate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:lJ - 114 Printed: Jul 3, 2026 12:27 IST
+
+Reviewed: Reviewed
+Sep 15, 2025 NCTC129231784737 | ith Electronic sonal_142190
+09:17:36 IST 2-4 . -
+Signature
+Sep 15, 2025 NCTC129231784737 |Report:Lab Report 4.
+
+[]:[Since it is known
+standard culture,
+Shigella boydii is
+
+Sep 15, 2025 NCTC129851 784074 |Modified:Card
+
+09:23:10 IST
+
+Sep 15, 2025 NCTC129851784074 |Modified:Isolate
+09:23:35 IST 6-1 Organism Updated
+Sep 15, 2025 NCTC129851784074 |Modified:Analysis
+09:23:35 IST 6-1 Begins
+
+Sep 15, 2025 NCTC129851 784074 |Modified:Analysis
+09:23:36 IST 6-1 Completes
+
+Sep 15, 2025 NCTC129851784074 |Report:Lab Report
+09:23:38 IST 6-1 Printed
+
+Sep 15, 2025 NCTC129851784074 |Reviewed:Reviewed
+
+pi with Electronic
+09:23:51 IST 6-1 Signature
+
+sonal_ 142190
+
+sonal_142190
+
+Approved:Approved
+Sep 16, 2025 NCTC129231784207 with Electronic
+
+10:00:19 IST 5- Signature
+
+1
+Sep 16, 2025 NCTC129231784207 |Report:Lab Report tak
+Approved:Approved
+
+Sep 16, 2025 NCTC129231784737 with Electronic
+
+humayun_138338 = j[ J:[ }:[] P|
+15:35:47 IST 3-1 Organism Updated
+
+Organism]:{ ]
+
+Sep 16, 2025 NCTC129851782901 |Modified:Analysis System CCE
+15:35:47 IST 3-4 Begins yste Li
+
+[Low
+Installed VITEK 2 Systems Version:9.02 ‘Page 12 of 17
+
+humayun_138338
+
+humayun_138338
+
+10:01:00 IST 2-1 Signature
+Sep 16, 2025 NCTC129231784737 |Report:Lab Report
+
+Approved:Approved
+Sep 16, 2025 NCTC129851784074 with Electronic
+
+10:01:33 IST 6-1 Signature
+Sep 16, 2025 NCTC129851784074 |Report:Lab Report
+10:01:36 IST 6-1 Printed
+
+NCTC129851782901 |Modified:lsolate
+
+humayun_138338
+
+Discrimination]:[Low
+
+Sep 16, 2025
+Discrimination
+
+sonal_142190
+
+Cipla Ltd. ,Goa
+Isolate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:lJ - 114 Printed: Jul 3, 2026 12:27 IST
+
+ep 16,2025 NCTC129851782901 |Modified:Analysis Syst
+15:35:49 IST 3-1 Completes ystem
+Sep 16, 2025 NCTC129851782901 |Report:Lab Report
+Sep 16, 2025 NCTC129851782901 |Reviewed: Reviewed
+15 36-09 IST 3.4 with Electronic Sonal_142190
+“ : Signature
+Sep 16, 2025 NCTC129851782901 |Report:Lab Report ,
+Sep 21, 2025 NCTC129231784737 |Modified:Isolate |.
+01:03:03 IST 2-1 Inactive ystem
+Sep 21, 2025 NCTC129231784207 |Modified:Isolate Syst 10]
+01:03:03 IST 5-1 Inactive ysiem E}:t):
+Sep 21, 2025 NCTC 129851784074 |Modified:Isolate |.
+01:03:03 IST 6-1 Inactive ysiem
+Sep 23, 2025 NCTC129851782901 |Report:Lab Report .
+
+Sep 23, 2025 NCTC129851782901 Approved: Approved
+18:23:43 IST 3-
+
+Signature
+Sep 23, 2025
+18:23:48 IST
+
+Humayun_138338
+
+1
+NCTC129851782901 |Report:Lab Report
+Sep 25, 2025 NCTC129851782901 |Modified:Isolate |. aa
+01:03:02 IST 3-1 Inactive ystem C1000)
+
+Sep 27, 2025 ATCC873917923948 [ ]:[Afsarali
+19:16:48 IST Murad}]:[Setup Tech]
+
+1
+Sep 27, 2025 TCC873917923948|Created:lsolate .
+Sep 27, 2025 AHIDENT17890796- : i
+
+19:16:48 IST 1
+[ ]:{Afsarali
+
+Sep 27, 2025 AHIDENT17890796- |Created:!solate .
+Murad]:[Setup Tech]
+
+Sep 27, 2025 AHIDENT17862447-
+19:16:48 IST 1
+AHIDENT17862447- Created:Isolate afsarali_163869 | F}t 11] P|
+
+Created:Setup Tech |jafsarali_163859
+
+Created:Setup Tech jafsarali_163859
+
+Created:Setup Tech |afsarali_163859
+
+Sep 27, 2025
+19:16:48 IST
+ATCC873917923948 |Modified:Analysis Syst
+1 Begins ystem
+
+Sep 27, 2025
+
+19:16:48 IST -
+
+Sep 27, 2025 ATCC873917923948|Modified:Analysis Syst a
+19:16:48 IST -1 Completes ystem P10)
+
+Installed VITEK 2 Systems Version:9.02 Page 13 of 17
+
+Cipla Ltd. ,Goa
+Isolate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:lJ - 114 Printed: Jul3, 2026 12:27 IST
+
+=
+oO
+ae
+ror)
+ft
+oo
+n
+oe |
+
+Sep 27, 2025 AHIDENT17890796- |Modified:Analysis
+:16: 1 Begins
+Sep 27, 2025 AHIDENT17890796- |Modified:Analysis
+1 Completes
+Sep 27, 2025 AHIDENT17862447- |Modified:Analysis
+19:16:49 IST 1 Begins
+Sep 27, 2025 AHIDENT17862447- |Modified:Analysis
+19:16:49 IST 1 Completes
+Sep 27, 2025 AHIDENT17862447- |Modified:Analysis
+22:17:23 1ST 1 Begins
+Sep 27, 2025 AHIDENT17862447- |Modified:Analysis
+22:17:24 IST 1 Completes
+Sep 27, 2025 AHIDENT17862447- |Modified:Analysis
+22:17:24 1ST 1 7
+Sep 27, 2025 AHIDENT17862447- |Modified:Anal
+22:17:24 IST 1: Completes
+Sep 27, 2025 TCC873917923948|Modified:Analysis
+23:45:53 IST -1 Begins
+TCC873917923948|Modified:Analysis System
+-1 Completes y
+TCC873917923948|Modified:Analysis
+-1 Begins
+ATCC873917923948|Modified:Analysis
+23:45:53 IST -4 Completes
+Sep 28, 2025
+aa. with Electronic
+14:13:26 IST -1 Signature
+
+wm a
+—< <
+a | 2
+@o oO
+3 3
+
+wo
+o
+~
+®
+3
+
+y [O10]
+
+System LiL]
+
+=
+o
+=
+>
+BR
+o
+n
+a |
+
+system
+
+¢3} n on n
+s< << < s<
+a o @ a
+a 2. 2 pe
+7) oO oO oO
+3 3 3 3
+
+CVO)
+
+System [E0101
+
+no ”
+< <
+a a
+pie 2
+@ @
+3 3
+
+Sep 27, 2025
+23:45:53 IST
+Sep 27, 2025
+23:45:53 IST
+AHIDENT17890796- |Modified:Analysis
+09:03:21 IST 1 Begins
+Sep 28, 2025 AHIDENT17890796- |Modified:Analysis System
+09:03:22 IST 1 Completes y
+Sep 28, 2025 AHIDENT17890796- |Modified:Analysis System
+:03: 1 Begins y
+Sep 28, 2025 AHIDENT17890796- |Modified:Analysis
+09:03:22 IST 1 Completes
+
+Sep 27, 2025
+Sep 29, 2025 ATCC873917923948| eviewed- Reviewed
+
+oO
+©
+o
+oe
+iN)
+N
+n
+|
+
+[EOL]
+
+Signature
+
+ReportLap Report yogeeta_140319
+
+1
+AHIDENT17862447-
+1
+
+Sep 29, 2025
+11:13:44 IST
+
+Installed VITEK 2 Systems Version:9.02 Page 14 of 17
+
+Cipla Ltd. ,Goa
+tsolate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:|J - 114 Printed: Jul 3, 2026 12:27 IST
+
+[ ]:[Since Gelatin
+test is negative,
+Brevibacillus
+choshinensis is
+selected. ]:[]
+
+{Low
+Discrimination]:[Bre
+
+Oct 2, 2025
+14:49:44 IST
+
+AHIDENT17890796- |Modified:Card
+Comment Changed
+
+sonal_142190 2392867203488762
+
+AHIDENT17890796- |Modified:Isolate
+1
+
+Oct 2, 2025
+14:49:51 IST
+
+Oct 2, 2025 AHIDENT17890796- |Modified:Analysis |.
+
+14:49:51 1ST 1 Begins ystem
+
+Oct 2, 2025 AHIDENT17890796- |Modified:Analysis |.
+
+14:49:53 IST 1 Completes yste
+
+Oct 2, 2026 AHIDENT17890796- |Repori:Lab Report
+
+14:49:59 IST HIDENT17890708- Report pen fsonal_142190 [UN]
+
+Oct 2, 2025 AHIDENT17890796- Rew ewodiRev lewed CEU
+14:50:20 IST 1 oa
+
+Signature
+
+sonal_142190
+
+Sonal_142190
+
+Approved:Approved
+with Electronic
+Signature
+
+Oct 3, 2026
+08:57:49 IST
+
+Approved:Approved
+Oct 3, 2025 AHIDENT17890796- with Electronic
+
+humayun_138338
+
+humayun_138338
+
+Oct 5, 2025 AHIDENT17862447- |Modified:Isolate Syst re
+
+01:03:03 IST 1 Inactive ystem CEE
+
+Oct 10 NCTC129231798970 . [ }:[Sonal
+
+15:16:23 IST INCTC128281798970 -reatoa:Setup Tech |sonal_142190 Naik]:[Setup Tech]
+
+Installed VITEK 2 Systems Version:9.02 Page 15 of 17
+
+09:00:02 IST 4 Signature
+ATCC873917923948| PPToved: Approved .
+4
+Oct 3, 2025 ATCC873917923948|Report:Lab Report a
+410, 2025
+
+Oct 3, 2025 AHIDENT17890796- |Report:Lab Report
+
+Oct 3, 2025 AHIDENT17890796- |Report:Lab Report a
+with Electronic
+Signature
+
+Oct 5, 2025 ATCC873917923948|Modified:|solate Syst
+
+01:03:03 IST -1 Inactive ystem
+
+Oct 5, 2025 AHIDENT17890796- |Modified:lsolate Syst
+
+01:03:03 IST 1 Inactive ystem
+
+Cipla Ltd. , Goa
+Isolate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:lJ - 114 Printed: Jul 3, 2026 12:27 IST
+
+Oct 10, 2025
+
+NeTe129291798970 creates solate sonal_142190
+; { ]:[Sonal
+3 Created:Setup Tech |sonal_142190 Naik]:[Setup Tech]
+
+N
+
+=4
+NCTC129851782901
+
+-2
+
+NCTC129851782901 |Created: Isolate
+
+N
+1
+1
+
+Oct 10, 2025
+15:16:23 IST
+
+Oct 10, 2025
+
+=
+a
+a
+2
+no
+wo
+n
+-a
+\
+
+15:16:23 IST 3
+Oct 10, 2025 CTC129231798970|Modified:Analysis |... na
+15:16:23 IST 5 Begins ystem C110)
+
+Oct 10, 2025
+
+NCTC129231798970|Modified:Analysis —
+
+NCTC129851 782901 |Modified:Analysis nh
+
+NCTC129851782901 |Modified:Analysis aa.
+
+Oct 10, 2025 NCTC129231798970 |Modified:Analysis Syst
+
+20:01:13 IST 5-1 Begins ystem
+
+Oct 10, 2025 NCTC129231798970 |Modified:Analysis Syst
+
+20:01:15 IST 5-1 Completes ystem
+
+Oct 10, 2025 NCTC129231 798970 |Modified:Analysis Syst CLEC
+
+20:01:15 IST 5.4 Begins ystem Lh
+
+Oct 10, 2025 NCTC129231798970 |Modified:Analysis Syst SREHE
+
+20:01:15 IST 5-1 Completes ystem th
+NCTC129851782901 |Modified:Analysis System
+3-2 Begins yste
+NCTC129851782901 |Modified:Analysis
+3-2 Completes
+NCTC129851782901 |Modified:Analysis
+3-2 Begins
+NCTC129851782901 |Modified:Analysis
+
+3-2 Completes
+
+Reviewed:Reviewed
+
+with Electronic Sonal_142190
+
+Signature
+
+sonal_142190
+
+sonal_142190
+
+Oct 10, 2025
+15:16:23 IST
+
+Oct 10, 2025
+
+_
+a
+a
+@
+i)
+cx)
+n
+s+
+
+01:10:04 IST
+
+~
+4 an
+-~ —_
+—_—
+—_—: ce)
+NO
+ie) wo
+8 ra
+a |
+
+29
+res)
+o=-
+=
+om
+D pr
+aS
+4a
+
+169]
+<
+o
+pl
+@
+3
+
+[ ]:[Since Mobility
+test is negative and
+itis a known
+standard culture,
+Shigella boydii is
+selected.]:[ ]
+
+[Low
+sonal_142190 Discrimination]:[Shig
+ella boydii):[]
+
+Installed VITEK 2 Systems Version:9.02 . Page 16 of 17
+
+NCTC129851782901 |Modified:Card
+Comment Changed
+
+Oct 16, 2025
+18:50:47 IST
+
+2412990403274465
+
+NCTC129851782901 |Modified:Isolate
+Organism Updated
+
+Cipla Ltd. ,Goa
+
+Isolate Audit Report
+Customer Number: Printed by:gangadhar_141094
+System Number:lJ - 114 Printed: Jul 3, 2026 12:27 IST
+
+SEEN
+
+Oct 16, 2025 NCTC129851782901 |Modified:Analysis Syst
+18:50:55 IST 3-2 Begins ystem
+Oct 16, 2025 NCTC129851782901 |Modified:Analysis System
+18:50:56 IST 3-2. Completes yste
+Oct 16, 2025 NCTC129851782901 |Report:Lab Report a
+Oct 16, 2025 NCTC129851782901 | Reviewed: Reviewed
+1851-18 IST 3.2 with Electronic Sonal_142190
+
+~ : Signature
+Oct 16, 2025 NCTC129851782901 |Report:Lab Report —
+Oct 24, 2025 NCTC129851782901 |Report:Lab Report
+
+Oct 25, 2025 NCTC129231798970 pe reven Approved
+19:01:03 IST 5.
+
+' Signature
+Oct 25, 2025 NCTC129231798970|Report:Lab Report
+Oct 25, 2025
+
+Approved:Approved
+19:03:00 IST NCTC129851782901 with Electronic humayun_138338
+_ Signature
+
+Humayun_ 138338
+
+3-2
+Oct 25, 2025 NCTC129851782901 {Report:Lab Report
+Oct 26, 2025 NCTC129231798970|Modified:Isolate |...
+01:03:03 IST 5-4 Inactive ystem
+Oct 26, 2025 NCTC129851782901 |Modified:Isolate na.
+01:03:03 IST 3-2 Inactive ystem EVEN]
+
+eS
+Installed VITEK 2 Systems Version:9.02 Page 17 of 17

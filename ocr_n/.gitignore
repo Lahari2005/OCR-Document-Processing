@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+# Uploads - keep folder, ignore its contents
+uploads/*
+!uploads/.gitkeep
+# Generated output files
+*.xlsx
+*.html
+*.pdf
+output.txt
+# VS Code
+.vscode/
+# OS
+.DS_Store
+Thumbs.db

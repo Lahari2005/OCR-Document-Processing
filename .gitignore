@@ -1,0 +1,38 @@
+# Python
+
+__pycache__/
+
+*.py[cod]
+
+.venv/
+
+venv/
+
+env/
+
+# Uploaded files
+
+uploads/*
+
+!uploads/.gitkeep
+
+# Generated reports
+
+*.xlsx
+
+*.html
+
+*.pdf
+
+output.txt
+
+# VS Code
+
+.vscode/
+
+# OS
+
+.DS_Store
+
+Thumbs.db
+ 
