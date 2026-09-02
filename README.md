@@ -68,14 +68,19 @@ Workflow
 
 Input Document
       ↓
+      
 Document Processing
       ↓
+      
 OCR Text Extraction
       ↓
+      
 Data Processing
       ↓
+      
 Structured Output
       ↓
+      
    Report
 
 Output
@@ -89,7 +94,9 @@ Future Improvements
 * Deployment as a cloud-based application
 
 Author
+
 Pakalapati Lahari
+
 GitHub: https://github.com/Lahari2005
 
  
