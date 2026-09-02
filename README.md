@@ -67,18 +67,23 @@ python app.py
 Workflow
 
 Input Document
+
       ↓
       
 Document Processing
+
       ↓
       
 OCR Text Extraction
+
       ↓
       
 Data Processing
+
       ↓
       
 Structured Output
+
       ↓
       
    Report
