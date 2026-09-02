@@ -50,7 +50,9 @@ OCR
 HTML/CSS
 Document Processing
 
+
 Git & GitHub
+
 How to Run
 1. Clone the repository 
 git clone https://github.com/Lahari2005/OCR-Document-Processing.git
@@ -61,7 +63,9 @@ cd OCR-Document-Processing
 3. Install the required dependencies
 pip install -r requirements.txt
 
-4. Run the application
+4. Set your Gemini API key
+
+5. Run the application
 python app.py
 
 Workflow
